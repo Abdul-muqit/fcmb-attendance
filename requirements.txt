@@ -4,7 +4,7 @@ sqlalchemy
 pydantic
 pydantic[email]
 python-jose
-pwdlib
+pwdlib[argon2]
 qrcode
 pillow
 python-multipart
