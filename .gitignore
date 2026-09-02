@@ -1,0 +1,9 @@
+network_venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+attendance.db
+*.db
+.streamlit/secrets.toml

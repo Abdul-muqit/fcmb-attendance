@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pydantic[email]
+python-jose
+pwdlib
+qrcode
+pillow
+python-multipart
+streamlit
+requests
